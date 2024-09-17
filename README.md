@@ -20,7 +20,7 @@ Pour la VM Cliente : une Debian avec GUI – 2 Go RAM – 2vcpu – Disque 16 Go
 et connecté sur le «LAN» de la VM serveur et un navigateur web.
 La VM serveur va servir de Serveur DHCP / DNS (sur la carte «LAN») de serveur
 
-_1
+
 
 FTP, serveur Web, serveur de base de données SQL et serveur LDAP.
 
@@ -53,7 +53,7 @@ Faire une procédure pour l’export des VM.
 Écrire la notice d’installation et d’utilisation pour l’utilisateur final. (installation
 des outils VMWare, Installation des VM... )
 
-_2
+
 
 Pour aller plus loin
 
@@ -82,7 +82,7 @@ DNS
 FTP
 Nginx Proxy
 
-_3
+
 
 Compétences visées
 
